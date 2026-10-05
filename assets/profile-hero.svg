@@ -1,37 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
 <defs>
-  <linearGradient id="bg" x1="0" x2="1">
-    <stop offset="0" stop-color="#07111f"/>
-    <stop offset="0.5" stop-color="#122333"/>
-    <stop offset="1" stop-color="#15112d"/>
-  </linearGradient>
-  <linearGradient id="accent" x1="0" x2="1">
-    <stop offset="0" stop-color="#00e5ff"/>
-    <stop offset="0.5" stop-color="#5b8cff"/>
-    <stop offset="1" stop-color="#9d5cff"/>
-  </linearGradient>
-  <linearGradient id="wave" x1="0" x2="1">
-    <stop offset="0" stop-color="#00e5ff" stop-opacity=".72"/>
-    <stop offset=".5" stop-color="#6d8cff" stop-opacity=".5"/>
-    <stop offset="1" stop-color="#a855f7" stop-opacity=".68"/>
-  </linearGradient>
+  <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#050b16"/><stop offset=".5" stop-color="#0d1b2c"/><stop offset="1" stop-color="#17112f"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#00e5ff"/><stop offset=".5" stop-color="#4f8cff"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
   <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
-<g opacity=".12" stroke="#5ee7ff">
-  <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200"/>
-  <path d="M100 0V360M300 0V360M500 0V360M700 0V360M900 0V360M1100 0V360"/>
+<rect width="1200" height="430" rx="22" fill="url(#bg)"/>
+<g opacity=".12" stroke="#56e7ff"><path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200M0 420H1200"/><path d="M80 0V430M240 0V430M400 0V430M560 0V430M720 0V430M880 0V430M1040 0V430"/></g>
+<circle cx="1030" cy="75" r="95" fill="#00e5ff" opacity=".07" filter="url(#glow)"/>
+<circle cx="155" cy="330" r="120" fill="#8b5cf6" opacity=".07" filter="url(#glow)"/>
+<text x="600" y="78" text-anchor="middle" fill="#f4f8ff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" letter-spacing="2">DIPTANSU KUMAR</text>
+<text x="600" y="122" text-anchor="middle" fill="#e9f3ff" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="3">CYBERSECURITY ANALYST  |  VAPT  |  WEB • MOBILE • API</text>
+
+<text x="600" y="158" text-anchor="middle" fill="#56e7ff" font-family="monospace" font-size="14" font-weight="700" letter-spacing="1.5">BURP SUITE • NMAP • METASPLOIT • NUCLEI • SQLMAP • FFUF • GOBUSTER</text>
+<text x="600" y="181" text-anchor="middle" fill="#b8c8dc" font-family="monospace" font-size="13">MOBSF • JADX • FRIDA • POSTMAN • SPLUNK • WAZUH • SENTINEL • WIRESHARK • GHIDRA • AUTOPSY</text>
+
+<g font-family="monospace" font-size="18" text-anchor="middle" font-weight="700">
+ <text x="600" y="218" fill="#ffffff">Breaking attack paths. Building safer systems.<animate attributeName="opacity" dur="15s" repeatCount="indefinite" values="1;1;0;0;0;0;0;0;0;0;1" keyTimes="0;.12;.18;.28;.38;.48;.58;.68;.78;.88;1"/></text>
+ <text x="600" y="218" fill="#56e7ff">VAPT • Web • Mobile • API Security<animate attributeName="opacity" dur="15s" repeatCount="indefinite" values="0;0;1;1;0;0;0;0;0;0;0" keyTimes="0;.12;.18;.28;.38;.48;.58;.68;.78;.88;1"/></text>
+ <text x="600" y="218" fill="#9d7cff">Recon → Validate → Exploit → Evidence → Remediate<animate attributeName="opacity" dur="15s" repeatCount="indefinite" values="0;0;0;0;1;1;0;0;0;0;0" keyTimes="0;.12;.18;.28;.38;.48;.58;.68;.78;.88;1"/></text>
+ <text x="600" y="218" fill="#56e7ff">Security Research • Penetration Testing • Training<animate attributeName="opacity" dur="15s" repeatCount="indefinite" values="0;0;0;0;0;0;1;1;0;0;0" keyTimes="0;.12;.18;.28;.38;.48;.58;.68;.78;.88;1"/></text>
+ <text x="600" y="218" fill="#ffffff">Offensive Security • SOC • DFIR • Threat Intelligence<animate attributeName="opacity" dur="15s" repeatCount="indefinite" values="0;0;0;0;0;0;0;0;1;1;0" keyTimes="0;.12;.18;.28;.38;.48;.58;.68;.78;.88;1"/></text>
 </g>
-<circle cx="1040" cy="80" r="90" fill="#00e5ff" opacity=".08" filter="url(#glow)"/>
-<circle cx="160" cy="285" r="110" fill="#8b5cf6" opacity=".08" filter="url(#glow)"/>
-<text x="600" y="112" text-anchor="middle" fill="#eef6ff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" letter-spacing="2">DIPTANSU KUMAR</text>
-<text x="600" y="165" text-anchor="middle" fill="#e7f1ff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="3">CYBERSECURITY ANALYST  |  VAPT  |  WEB • MOBILE • API</text>
-<text x="600" y="207" text-anchor="middle" fill="#56e7ff" font-family="monospace" font-size="18">Breaking attack paths. Building safer systems.</text>
-<path d="M0 265 C160 215 300 305 470 263 S790 215 980 268 S1120 300 1200 258 L1200 360 L0 360 Z" fill="url(#wave)" opacity=".34">
-  <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 265 C160 215 300 305 470 263 S790 215 980 268 S1120 300 1200 258 L1200 360 L0 360 Z;M0 278 C160 325 300 230 470 275 S790 320 980 265 S1120 225 1200 278 L1200 360 L0 360 Z;M0 265 C160 215 300 305 470 263 S790 215 980 268 S1120 300 1200 258 L1200 360 L0 360 Z"/>
+
+<path d="M0 305 C160 255 300 345 470 303 S790 255 980 308 S1120 340 1200 298 L1200 430 L0 430 Z" fill="#00c8ff" opacity=".10"/>
+<path d="M0 305 C160 255 300 345 470 303 S790 255 980 308 S1120 340 1200 298" fill="none" stroke="url(#accent)" stroke-width="3">
+ <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 305 C160 255 300 345 470 303 S790 255 980 308 S1120 340 1200 298;M0 320 C160 365 300 270 470 316 S790 365 980 306 S1120 266 1200 320;M0 305 C160 255 300 345 470 303 S790 255 980 308 S1120 340 1200 298"/>
 </path>
-<path d="M0 266 C160 216 300 306 470 264 S790 216 980 269 S1120 301 1200 259" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".9">
-  <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 266 C160 216 300 306 470 264 S790 216 980 269 S1120 301 1200 259;M0 279 C160 326 300 231 470 276 S790 321 980 266 S1120 226 1200 279;M0 266 C160 216 300 306 470 264 S790 216 980 269 S1120 301 1200 259"/>
-</path>
-<text x="600" y="318" text-anchor="middle" fill="#56e7ff" font-family="monospace" font-size="15" letter-spacing="4">SECURITY RESEARCH  •  PENETRATION TESTING  •  TRAINING</text>
+<text x="600" y="370" text-anchor="middle" fill="#56e7ff" font-family="monospace" font-size="14" letter-spacing="4">RECON  •  MAP  •  TEST  •  VALIDATE  •  EXPLOIT  •  EVIDENCE  •  RISK  •  REMEDIATE</text>
+<text x="600" y="402" text-anchor="middle" fill="#aabbd0" font-family="Arial,Helvetica,sans-serif" font-size="14">OPEN TO CYBERSECURITY • VAPT • SECURITY RESEARCH • TRAINING OPPORTUNITIES</text>
 </svg>
