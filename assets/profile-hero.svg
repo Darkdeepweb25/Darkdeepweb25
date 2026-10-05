@@ -26,7 +26,24 @@
 <circle cx="160" cy="285" r="110" fill="#8b5cf6" opacity=".08" filter="url(#glow)"/>
 <text x="600" y="112" text-anchor="middle" fill="#eef6ff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" letter-spacing="2">DIPTANSU KUMAR</text>
 <text x="600" y="165" text-anchor="middle" fill="#e7f1ff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="3">CYBERSECURITY ANALYST  |  VAPT  |  WEB • MOBILE • API</text>
-<text x="600" y="207" text-anchor="middle" fill="#8fa7c4" font-family="monospace" font-size="17">Recon → Map → Test → Validate → Exploit → Evidence → Risk → Remediate</text>
+<g font-family="monospace" font-size="18" text-anchor="middle" fill="#9fb3cc">
+<text x="600" y="207">
+<tspan opacity="0">Breaking attack paths. Building safer systems.</tspan>
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.12;.38;.5;1" dur="12s" repeatCount="indefinite"/>
+</text>
+<text x="600" y="207">
+<tspan opacity="0">Recon. Validate. Exploit. Remediate.</tspan>
+<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.25;.38;.72;1" dur="12s" repeatCount="indefinite"/>
+</text>
+<text x="600" y="207">
+<tspan opacity="0">Web • Mobile • API Security</tspan>
+<animate attributeName="opacity" values="0;0;0;1;0" keyTimes="0;.48;.5;.72;1" dur="12s" repeatCount="indefinite"/>
+</text>
+<text x="600" y="207">
+<tspan opacity="0">Think like an attacker. Build like a defender.</tspan>
+<animate attributeName="opacity" values="0;0;0;0;1" keyTimes="0;.7;.72;.86;1" dur="12s" repeatCount="indefinite"/>
+</text>
+</g>
 <path d="M0 265 C160 215 300 305 470 263 S790 215 980 268 S1120 300 1200 258 L1200 360 L0 360 Z" fill="url(#wave)" opacity=".34">
   <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 265 C160 215 300 305 470 263 S790 215 980 268 S1120 300 1200 258 L1200 360 L0 360 Z;M0 278 C160 325 300 230 470 275 S790 320 980 265 S1120 225 1200 278 L1200 360 L0 360 Z;M0 265 C160 215 300 305 470 263 S790 215 980 268 S1120 300 1200 258 L1200 360 L0 360 Z"/>
 </path>
