@@ -1,21 +1,13 @@
 <div align="center">
 
-# 🛡️ Diptansu Kumar
-
-### Cybersecurity Analyst  ·  VAPT  ·  Web  ·  Mobile  ·  API
-
-**Breaking attack paths. Building safer systems.**
+<img src="https://raw.githubusercontent.com/Darkdeepweb25/Darkdeepweb25/main/assets/profile-hero.svg" alt="Diptansu Kumar Cybersecurity Analyst" width="100%"/>
 
 <br/>
 
 <a href="https://darkdeepweb25.github.io/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-LIVE-00E5FF?style=for-the-badge&labelColor=07111F"/></a>
 <a href="https://www.linkedin.com/in/diptansu-kumar-a87707240/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=07111F"/></a>
-<a href="mailto:kumardiptansu1@gmail.com"><img src="https://img.shields.io/badge/📧%20EMAIL-CONTACT-EA4335?style=for-the-badge&labelColor=07111F"/></a>
+<a href="mailto:kumardiptansu1@gmail.com?subject=Cybersecurity%20Opportunity%20-%20Diptansu%20Kumar"><img src="https://img.shields.io/badge/📧%20START%20A%20SECURITY%20CONVERSATION-EA4335?style=for-the-badge&labelColor=07111F"/></a>
 <a href="https://github.com/Darkdeepweb25"><img src="https://img.shields.io/badge/🐙%20GITHUB-DARKDEEPWEB25-8B5CF6?style=for-the-badge&labelColor=07111F"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=VAPT+%7C+Web+Security+%7C+Mobile+Security+%7C+API+Security;Recon+%E2%86%92+Test+%E2%86%92+Validate+%E2%86%92+Evidence+%E2%86%92+Remediate;Penetration+Testing+%7C+Security+Research+%7C+DFIR;Cybersecurity+Analyst+%7C+Trainer+%7C+Security+Enthusiast" alt="Typing cybersecurity roles"/>
 
 </div>
 
