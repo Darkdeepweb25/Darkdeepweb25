@@ -1,71 +1,63 @@
 <div align="center">
 
-<a href="https://github.com/Darkdeepweb25">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06111f,50:073b4c,100:5b2cff&height=220&section=header&text=DIPTANSU%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=CYBERSECURITY%20ANALYST%20%7C%20VAPT%20%7C%20WEB%20%E2%80%A2%20MOBILE%20%E2%80%A2%20API&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
-</a>
+<img src="https://github.com/Darkdeepweb25.png" width="150" height="150" alt="Diptansu Kumar"/>
 
-<a href="https://github.com/Darkdeepweb25">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=45E7FF&center=true&vCenter=true&width=800&lines=Recon+%E2%86%92+Map+%E2%86%92+Test+%E2%86%92+Validate;VAPT+%7C+Web+Security+%7C+Mobile+Security+%7C+API+Security;Breaking+attack+paths.+Building+safer+systems.;Security+Research+%7C+Penetration+Testing+%7C+Cybersecurity+Training" alt="Typing SVG"/>
-</a>
+# Diptansu Kumar
+### Cybersecurity Analyst · VAPT · Web · Mobile · API
 
-<br/>
-
+<a href="https://darkdeepweb25.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live-45E7FF?style=for-the-badge&labelColor=07111f"/></a>
+<a href="https://www.linkedin.com/in/diptansu-kumar-a87707240/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kumardiptansu1@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Darkdeepweb25"><img src="https://img.shields.io/badge/GitHub-Darkdeepweb25-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/diptansu-kumar-a87707240/"><img src="https://img.shields.io/badge/LinkedIn-Diptansu%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kumardiptansu1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
+> **Security mindset:** Recon → Map → Test → Validate → Exploit → Evidence → Risk → Remediate
+
 ---
 
-## `whoami`
+## 🧬 About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### 🛡️ Cybersecurity Analyst
+I’m **Diptansu Kumar**, a Cybersecurity Analyst focused primarily on **Vulnerability Assessment & Penetration Testing (VAPT)** across **Web, Mobile and API security**.
 
-I am a **Cybersecurity Analyst & VAPT practitioner** focused primarily on **Vulnerability Assessment & Penetration Testing across Web, Mobile and API security**.
+I work across reconnaissance, attack-surface mapping, manual and tool-assisted testing, vulnerability validation, authorized exploitation, evidence collection, risk analysis and professional remediation reporting.
 
-My approach combines reconnaissance, attack-surface mapping, manual testing, tool-assisted discovery, vulnerability validation, authorized exploitation, evidence collection, risk analysis and professional remediation reporting.
+Beyond VAPT, my interests and practical exposure include **SOC operations, DFIR, malware analysis, incident response, threat intelligence, OSINT, security research and cybersecurity training**.
 
-I also work across **SOC, DFIR, malware analysis, incident-response reporting, security assessment, threat intelligence, OSINT and cybersecurity training**.
+### 🎯 What I’m Building
 
-**Current focus**
-
-- 🔴 Web Application Security
-- 🟣 Mobile Application Security
-- 🔵 API Security
-- 🟢 Penetration Testing & Security Research
-- 🟠 Practical Cybersecurity Training
+- 🔴 Web, Mobile & API security assessments
+- 🟣 Practical penetration-testing workflows
+- 🔵 ACDRIP+ security platform
+- 🟢 Cybersecurity labs and training material
+- 🟠 Security research, CTFs and defensive analysis
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-### ⚡ Security Console
+### ⚡ Security Identity
 
 ~~~text
-USER       : Diptansu Kumar
-ROLE       : Cybersecurity Analyst
-PRIMARY    : VAPT
-SURFACES   : Web | Mobile | API
+NAME       Diptansu Kumar
+ROLE       Cybersecurity Analyst
+PRIMARY    VAPT
+TARGETS    Web | Mobile | API
 
-WORKFLOW
-───────────────
-recon
-  ↓
-attack-surface mapping
-  ↓
-manual + automated testing
-  ↓
-validate / exploit
-  ↓
-evidence + risk
-  ↓
-remediation report
+FOCUS
+[+] Recon
+[+] Enumeration
+[+] Manual Testing
+[+] Validation
+[+] Evidence
+[+] Risk
+[+] Remediation
 
-STATUS     : READY
+MODE       SECURITY_RESEARCH
+STATUS     ACTIVE
 ~~~
 
 </td>
@@ -74,108 +66,137 @@ STATUS     : READY
 
 ---
 
-## 🎯 Core Security Domain
+## 🛰️ Connect / Find Me
 
 <div align="center">
 
-| WEB VAPT | MOBILE VAPT | API VAPT |
-|:---:|:---:|:---:|
-| OWASP Top 10 | Android Security | API Authentication |
-| Burp Suite | MobSF / JADX | Postman |
-| Recon & Enumeration | Frida | Request Manipulation |
-| Manual Testing | Static / Dynamic Analysis | Access Control |
-| PoC & Evidence | Runtime Testing | Business Logic |
+| Platform | Link | Purpose |
+|---|---|---|
+| 🌐 **Portfolio** | [darkdeepweb25.github.io](https://darkdeepweb25.github.io/) | Interactive cybersecurity portfolio |
+| 💼 **LinkedIn** | [Diptansu Kumar](https://www.linkedin.com/in/diptansu-kumar-a87707240/) | Professional profile & experience |
+| 🐙 **GitHub** | [@Darkdeepweb25](https://github.com/Darkdeepweb25) | Security projects & research |
+| 📧 **Email** | [kumardiptansu1@gmail.com](mailto:kumardiptansu1@gmail.com) | Cybersecurity opportunities |
 
 </div>
+
+### 📩 Security / Opportunity Contact
+
+If you are reaching out about a **VAPT engagement, cybersecurity role, training collaboration, security research or project**, use the email button above or contact me directly at **kumardiptansu1@gmail.com**.
+
+---
+
+## 🧠 Security Workflow
+
+<div align="center">
+
+~~~text
+                 ┌─────────────────────┐
+                 │     RECON / OSINT   │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ ATTACK-SURFACE MAP  │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ MANUAL + TOOL TEST  │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ VALIDATE / EXPLOIT  │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ EVIDENCE + CVSS     │
+                 └──────────┬──────────┘
+                            ↓
+                 ┌─────────────────────┐
+                 │ REMEDIATION REPORT  │
+                 └─────────────────────┘
+~~~
+
+</div>
+
+---
+
+## 🔐 Primary Domain — VAPT
+
+<details open>
+<summary><b>🌐 Web Application Security</b></summary>
+
+**Focus:** OWASP Top 10 · Authentication · Authorization · Session Security · Injection · XSS · CSRF · SSRF · IDOR · File Upload · Business Logic · Security Misconfiguration
+
+**Tooling:** Burp Suite · Nmap · Nuclei · SQLMap · FFUF · Gobuster · Nikto · Metasploit · OWASP ZAP · Acunetix · Nessus
+
+</details>
+
+<details>
+<summary><b>📱 Mobile Application Security</b></summary>
+
+**Focus:** Android application assessment · APK analysis · static analysis · dynamic analysis · insecure storage · authentication · exported components · network security · runtime testing
+
+**Tooling:** MobSF · JADX · Android Studio · Genymotion · Frida
+
+</details>
+
+<details>
+<summary><b>🔌 API Security</b></summary>
+
+**Focus:** Authentication · Authorization · BOLA/IDOR · excessive data exposure · rate limiting · input validation · JWT · business logic · request manipulation
+
+**Tooling:** Burp Suite · Postman · Nmap · Nuclei
+
+</details>
 
 ---
 
 ## 🧰 Security Arsenal
 
-### 🔴 VAPT — Primary
+### Offensive / VAPT
+`Burp Suite` `Nmap` `Nessus` `Metasploit` `SQLMap` `FFUF` `Gobuster` `Nuclei` `OWASP ZAP` `Acunetix` `Nikto` `Katana` `Dalfox` `XSStrike`
 
-**Web Security**
+### Mobile / API
+`MobSF` `JADX` `Frida` `Android Studio` `Genymotion` `Postman`
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-1F6FEB?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![SQLMap](https://img.shields.io/badge/SQLMap-111827?style=for-the-badge)
-![FFUF](https://img.shields.io/badge/FFUF-45E7FF?style=for-the-badge&logoColor=black)
-![Gobuster](https://img.shields.io/badge/Gobuster-7C3AED?style=for-the-badge)
-![Nuclei](https://img.shields.io/badge/Nuclei-6D28D9?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
-![Acunetix](https://img.shields.io/badge/Acunetix-E11D48?style=for-the-badge)
+### SOC / DFIR
+`Splunk` `Wazuh` `Microsoft Sentinel` `Wireshark` `Ghidra` `Autopsy` `Volatility` `FTK Imager` `ProcDOT` `VirusTotal` `Hex Editor`
 
-**Mobile & API Security**
-
-![MobSF](https://img.shields.io/badge/MobSF-0F766E?style=for-the-badge)
-![JADX](https://img.shields.io/badge/JADX-1D4ED8?style=for-the-badge)
-![Frida](https://img.shields.io/badge/Frida-F97316?style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 🟣 SOC / DFIR / Security Operations
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-1677FF?style=for-the-badge)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-5B2EFF?style=for-the-badge)
-![Ghidra](https://img.shields.io/badge/Ghidra-B45309?style=for-the-badge)
-![Autopsy](https://img.shields.io/badge/Autopsy-334155?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-475569?style=for-the-badge)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-0F172A?style=for-the-badge)
-
-### 💻 Development & Technical Foundations
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Experience
-
-<table>
-<tr><td><b>🔐 Trios Cyber</b></td><td>Cybersecurity Analyst & Trainer</td><td>Aug 2026 — Present</td></tr>
-<tr><td><b>🛡️ BLUME SECURA</b></td><td>Cyber Security Trainer</td><td>Jul 2025 — Present</td></tr>
-<tr><td><b>⚔️ The RD GROUP Of Industries</b></td><td>Penetration Testing Intern</td><td>May 2026 — Jul 2026</td></tr>
-<tr><td><b>👮 Uttar Pradesh Police</b></td><td>Summer Intern — ACPSIP-2026</td><td>Jun 2026</td></tr>
-<tr><td><b>🔎 CFSS Global</b></td><td>Penetration Testing Intern</td><td>Feb 2025 — Apr 2025</td></tr>
-<tr><td><b>💻 InfoNSL Secunet</b></td><td>Cyber Security & Software Development Intern</td><td>Jan 2024 — Jun 2024</td></tr>
-<tr><td><b>🧪 Cyber Secured India</b></td><td>Cyber Security & Digital Forensics Intern</td><td>Sep 2024 — Nov 2024</td></tr>
-<tr><td><b>🎯 YHills Edutech</b></td><td>Ethical Hacking Intern</td><td>Sep 2024 — Nov 2024</td></tr>
-</table>
+### Development
+`Python` `PHP` `Java` `C` `HTML5` `Laravel` `FastAPI` `JWT` `Linux` `Git`
 
 ---
 
 ## 🚀 Featured Project — ACDRIP+
 
-### Autonomous Cyber Defense, Risk Intelligence & Pre-Breach Simulation Platform
+**Autonomous Cyber Defense, Risk Intelligence & Pre-Breach Simulation Platform**
 
-**ACDRIP+** is a security-focused platform concept combining offensive and defensive security capabilities.
+~~~text
+ACDRIP+
+├── Risk Intelligence
+├── Pre-Breach Simulation
+├── Endpoint Monitoring
+├── Dark-Web Exposure
+├── Security Reporting
+├── JWT Authentication
+└── FastAPI Backend
+~~~
 
-**Core capabilities**
+<a href="https://github.com/Darkdeepweb25/ACDRIP_PLUS">🔗 Explore ACDRIP+ →</a>
 
-- 🔍 Risk analysis
-- 🌐 Dark-web exposure intelligence
-- 🖥️ Endpoint monitoring
-- 🧠 Threat / security intelligence
-- 🔐 JWT authentication
-- ⚙️ FastAPI backend
-- 📊 Automated security reporting
-- 🧪 Pre-breach simulation
+---
 
-<div align="center">
+## 💼 Experience Snapshot
 
-<a href="https://github.com/Darkdeepweb25/ACDRIP_PLUS">
-<img src="https://img.shields.io/badge/VIEW%20ACDRIP%2B-Repository-45E7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
+| Organization | Role |
+|---|---|
+| **Trios Cyber** | Cybersecurity Analyst & Trainer |
+| **BLUME SECURA** | Cyber Security Trainer |
+| **The RD GROUP Of Industries / voltsec.io** | Penetration Testing Intern |
+| **Uttar Pradesh Police** | Summer Intern — ACPSIP-2026 |
+| **CFSS Global** | Penetration Testing Intern |
+| **InfoNSL Secunet** | Cyber Security & Software Development Intern |
+| **Cyber Secured India** | Cyber Security & Digital Forensics Intern |
+| **YHills Edutech** | Ethical Hacking Intern |
 
 ---
 
@@ -192,64 +213,40 @@ STATUS     : READY
 
 ## 🏆 Certifications
 
-| Certification | Issuer |
-|---|---|
-| **Certified Ethical Hacker (CEH)** | EC-Council |
-| **Learn Burp Suite for Advanced Web Penetration Testing** | CodeRed / EC-Council |
-| **Certified Network Security Practitioner** | SecOps Group |
-| **Ethical Hacking Training** | Cyberyaan |
-| **Cyber Security & Digital Forensics Training** | Cyber Secured India |
-| **Project Completion Certificate** | E-CELL IIT Indore |
-| **Career Essentials in Cybersecurity** | Microsoft + LinkedIn |
-| **Introduction to Cybersecurity** | Cisco |
-| **File Security Associate** | OPSWAT |
-| **Critical Infrastructure Protection** | OPSWAT |
+`CEH — EC-Council` · `Certified Network Security Practitioner — SecOps Group` · `Learn Burp Suite — CodeRed / EC-Council` · `Ethical Hacking Training — Cyberyaan` · `Cyber Security & DFIR Training — Cyber Secured India` · `Microsoft + LinkedIn Career Essentials in Cybersecurity` · `Cisco Introduction to Cybersecurity` · `OPSWAT File Security Associate` · `OPSWAT Critical Infrastructure Protection`
 
 ---
 
-## 📊 GitHub Security Lab
+## 📊 GitHub Intelligence
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Darkdeepweb25&show_icons=true&theme=transparent&hide_border=true&title_color=45E7FF&icon_color=9D7CFF&text_color=8EA0B8&ring_color=45E7FF&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Darkdeepweb25&theme=transparent&hide_border=true&ring=45E7FF&fire=9D7CFF&currStreakLabel=45E7FF&sideLabels=8EA0B8&dates=8EA0B8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Darkdeepweb25&show_icons=true&theme=transparent&hide_border=true&title_color=45E7FF&icon_color=9D7CFF&text_color=8EA0B8&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darkdeepweb25&theme=transparent&hide_border=true&ring=45E7FF&fire=9D7CFF&currStreakLabel=45E7FF&sideLabels=8EA0B8&dates=8EA0B8" height="170"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkdeepweb25&layout=compact&theme=transparent&hide_border=true&title_color=45E7FF&text_color=8EA0B8&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkdeepweb25&layout=compact&theme=transparent&hide_border=true&title_color=45E7FF&text_color=8EA0B8&langs_count=8" height="160"/>
 
 </div>
 
 ---
 
-## 🧭 Current Interests
+## 🧪 Currently Exploring
 
-`VAPT` · `Penetration Testing` · `Web Security` · `Mobile Security` · `API Security` · `Threat Hunting` · `DFIR` · `OSINT` · `CTF` · `Security Research` · `Cybersecurity Training`
+`VAPT` · `Web Security` · `Mobile Security` · `API Security` · `Threat Hunting` · `DFIR` · `Malware Analysis` · `OSINT` · `CTF` · `Security Research` · `Cybersecurity Training`
 
 ---
 
-## 📡 Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/diptansu-kumar-a87707240/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:kumardiptansu1@gmail.com">
-<img src="https://img.shields.io/badge/Email-kumardiptansu1%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Darkdeepweb25/Darkdeepweb25.github.io">
-<img src="https://img.shields.io/badge/Interactive%20Portfolio-Live-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### `READY_FOR_THE_NEXT_ASSESSMENT`
 
-<br/><br/>
+**Breaking attack paths. Building safer systems.**
 
-<sub>⚡ Breaking attack paths. Building safer systems.</sub>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b2cff,50:073b4c,100:06111f&height=110&section=footer"/>
+<a href="https://darkdeepweb25.github.io/">🌐 Portfolio</a> ·
+<a href="https://www.linkedin.com/in/diptansu-kumar-a87707240/">💼 LinkedIn</a> ·
+<a href="mailto:kumardiptansu1@gmail.com">📧 Email</a> ·
+<a href="https://github.com/Darkdeepweb25">🐙 GitHub</a>
 
 </div>
