@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Darkdeepweb25/Darkdeepweb25/main/assets/profile-hero.svg" alt="Diptansu Kumar Cybersecurity Analyst" width="100%"/>
+<img src="https://raw.githubusercontent.com/Darkdeepweb25/Darkdeepweb25/main/assets/profile-hero.svg" alt="Diptansu Kumar — Cybersecurity Analyst | VAPT | Web Mobile API" width="100%"/>
 
 <br/>
 
@@ -10,6 +10,61 @@
 <a href="https://github.com/Darkdeepweb25"><img src="https://img.shields.io/badge/🐙%20GITHUB-DARKDEEPWEB25-8B5CF6?style=for-the-badge&labelColor=07111F"/></a>
 
 </div>
+
+---
+
+## 🧰 TECH STACK
+
+### ⚔️ Offensive Security
+
+<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQLMap-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nuclei-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/FFUF-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gobuster-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Acunetix-E11D48?style=flat-square"/>
+</p>
+
+### 📱 Mobile / API
+
+<p>
+<img src="https://img.shields.io/badge/MobSF-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/JADX-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Frida-FF8A00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Genymotion-00AEEF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+### 🛰️ SOC / DFIR
+
+<p>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-4A5568?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ghidra-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Autopsy-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Volatility-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/FTK%20Imager-111827?style=flat-square"/>
+</p>
+
+### 💻 Development / Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+</p>
 
 ---
 
@@ -121,61 +176,6 @@ Authentication · Authorization · BOLA/IDOR · Excessive data exposure · Rate 
 `Burp Suite` · `Postman` · `Nmap` · `Nuclei`
 
 </details>
-
----
-
-## 🧰 TECH STACK
-
-### ⚔️ Offensive Security
-
-<p>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLMap-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nuclei-5B21B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/FFUF-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gobuster-374151?style=flat-square"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Acunetix-E11D48?style=flat-square"/>
-</p>
-
-### 📱 Mobile / API
-
-<p>
-<img src="https://img.shields.io/badge/MobSF-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/JADX-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Frida-FF8A00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Genymotion-00AEEF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
-
-### 🛰️ SOC / DFIR
-
-<p>
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh-4A5568?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ghidra-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Autopsy-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/Volatility-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/FTK%20Imager-111827?style=flat-square"/>
-</p>
-
-### 💻 Development / Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
-</p>
 
 ---
 
